@@ -1,0 +1,13 @@
+---
+title: "Milestone-2"
+author: "Asmer Asrar Safi"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Project 1: Fingerprints of Colonization by Chloe Shawah 
+#### The student does great in terms of using various indicators to determine the overall effects of colonial rule on various countries across the world. This includes data on quality of life, health, education and the economy. The data is thus very comprehensive and accounts for multiple factors that could potentially contribute to analyzing the negative impacts of colonization on the countries, as is made apparent by the overarching trends in each plot. However, I do believe that the student could have done better in terms of organizing their data better, which often feels quite overwhelming. In the Economy section, for example, the "Tracing GDP of occupied countries" & "Average GDP by previous colonizers", there are far too many lines on the plot to be distinguishable, with each of their paths on the plot identifiable. Similarly, the color-coding too makes the country line plots unidentifiable. Using the different shades of the same color does not allow one to identify the trends for a particular country, because its hard to visually distinguish between each line not only because of the density of the lines, but also the hues. 
